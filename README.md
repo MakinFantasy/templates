@@ -7,3 +7,9 @@
 </ul>
 
 No page without using params!!!
+
+# URL changes:
+<ul>
+<li> localhost/recipe/?recipe=" what you want"&servings="your servings"</li>
+<li> servings param is not necessary</li>
+</ul>
